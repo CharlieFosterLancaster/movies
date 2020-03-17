@@ -1,6 +1,6 @@
-# peliculas
+# Peliculas
 
-A new Flutter project.
+Application made with flutter. Show upcoming releases, most popular movies. Includes a movie search engine.
 
 ## Getting Started
 
