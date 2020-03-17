@@ -1,5 +1,3 @@
-import 'dart:developer';
-
 class Peliculas{
 
   List<Pelicula> items = new List();
