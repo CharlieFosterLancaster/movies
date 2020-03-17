@@ -1,4 +1,4 @@
-# Peliculas
+# Movies
 
 Application made with flutter. Show upcoming releases, most popular movies. Includes a movie search engine.
 
